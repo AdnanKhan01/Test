@@ -17,3 +17,22 @@ git remote -v
 git push -u main
 go to github change a file and then pull. You'll see the local repository will update itself
 git pull origin  https://github.com/AdnanKhan01/Test.git
+git merge
+
+solving conflicts youtube channel: Ihatetomatoes
+
+Adding Organization and merge the current repository in it using fork
+
+then
+git remote add  OrganizationMRGT  https://github.com/OrganizationMRGT/Test.git
+
+git branch abc
+ git push --all
+
+windows :
+credential manager.. windows credentials...remove
+
+
+
+
+
